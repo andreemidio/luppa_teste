@@ -1,6 +1,6 @@
 # luppa teste
  
-Faça uma API em FLask utilizando o Modelo de Inteligência Artificial produzido em keras encontrado no dir ("Model/luppa.h5")
+Faça uma API em FLask utilizando o Modelo de Inteligência Artificial produzido em keras encontrado no dir ("Model/luppa.h5").<br/>
 a api deverá receber uma imagem no formato json fazer o decode enviar para o modelo executar a predição e retornar um json informando o resultado.
 
 # Conteúdo
