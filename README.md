@@ -11,3 +11,6 @@ Dir . contendo o script example.py nele contem 3 funções (decode image string,
 # Resultados
 O candidato deverá enviar todo o material produzido para solucionar o problema bem como suas instruções de uso em uma branch separada no formato "Luppa_Teste_Nome".<br/>
 Será analisado (clean code, documentação, tratamento de erros).
+
+# Contato
+Para qualquer dúvida ou eventualidade entrar em contato no e-mail: nicolas@executive.com.br
